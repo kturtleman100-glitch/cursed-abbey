@@ -1,14 +1,14 @@
 {
   "id": "./",
-  "name": "저주받은 수도원 — Cursed Abbey",
-  "short_name": "저주받은 수도원",
-  "description": "다크 판타지 3D 액션 RPG — 직업 5종, 스킬 1000개, 던전과 분야 보스",
+  "name": "난리법석 RPG",
+  "short_name": "난리법석 RPG",
+  "description": "초보자로 시작해 숨은 직업을 찾아 전직하는 난리법석 판타지 액션 RPG",
   "lang": "ko",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "orientation": "landscape",
-  "background_color": "#070505",
+  "background_color": "#1a2a40",
   "theme_color": "#0b0806",
   "categories": ["games"],
   "icons": [
