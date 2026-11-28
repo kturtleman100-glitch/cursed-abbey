@@ -1,7 +1,7 @@
 // 오프라인 저장소 (서비스 워커)
 // 한 번 받은 게임 파일을 브라우저에 저장해 두어, 다음부터는 빠르게 열리고 인터넷이 없어도 실행된다.
-// 1795829349759 는 `npm run build` 때 빌드 시각으로 바뀐다 → 새 버전을 올리면 옛 저장분은 자동으로 지워진다.
-const CACHE = 'cursed-abbey-1795829349759';
+// 1795830872774 는 `npm run build` 때 빌드 시각으로 바뀐다 → 새 버전을 올리면 옛 저장분은 자동으로 지워진다.
+const CACHE = 'cursed-abbey-1795830872774';
 const CORE = ['./', './index.html', './manifest.webmanifest', './icons/icon-192.png', './icons/icon-512.png'];
 
 self.addEventListener('install', (e) => {
